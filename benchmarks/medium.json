@@ -1,0 +1,9 @@
+{
+  "root": "/Users/soren-n/Documents/workspace/soren-n/disk-space-inspect/benchmarks/samples/medium",
+  "total_size": 48,
+  "files_scanned": 3,
+  "dirs_scanned": 3,
+  "cached_dirs": 0,
+  "cached_entries": 0,
+  "elapsed_ms": 1
+}
